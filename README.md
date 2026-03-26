@@ -36,7 +36,7 @@ int main()
 
 
 
-# qualche  esempo
+# qualche  esempio
 
 Base:
 
@@ -121,11 +121,6 @@ In C++17 una variabile constexpr static richiede un tipo senza distruttore, ma i
 Con /O2 MSVC puo' produrre decifratura errata, e' un problema noto con constexpr static dentro lambda. Usa /O1 nelle build Release. Entrambi i progetti sono gia' configurati in questo modo.
 
 
-# Struttura del progetto
-
-
-
- mxcrypt.h    //includila e basta
 
 
 
