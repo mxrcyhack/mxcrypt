@@ -4,6 +4,9 @@ Libreria header-only per la cifratura di stringhe a compile-time. C++17+, Window
 
 Le stringhe protette con `mxCrypt()` non sono mai presenti in chiaro nel binario. Il ciphertext XOR viene incorporato a compile-time e decifrato automaticamente a runtime solo quando viene acceduto.
 
+![pic](pic.jpg)
+![pic2](pic2.jpg)
+
 
 # Caratteristiche
 
